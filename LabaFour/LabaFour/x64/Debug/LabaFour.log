@@ -1,0 +1,4 @@
+﻿  MainForm.cpp
+C:\Users\Компуктер\source\repos\LabaFour\LabaFour\MainForm.cpp(18,46): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  Data.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  LabaFour.vcxproj -> C:\Users\Компуктер\source\repos\LabaFour\x64\Debug\LabaFour.exe
